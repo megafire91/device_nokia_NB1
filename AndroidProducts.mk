@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_NB1.mk
+    $(LOCAL_DIR)/cherish_NB1.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_NB1-user \
-    aosp_NB1-userdebug \
-    aosp_NB1-eng
+    cherish_NB1-user \
+    cherish_NB1-userdebug \
+    cherish_NB1-eng
